@@ -1,24 +1,40 @@
-# ido-nyilvantarto
+# Manag'em! 
+## Vue.js Munkaidő Kalkulátor
 
-## Project setup
-```
-npm install
-```
+Ez az alkalmazás lehetővé teszi a felhasználók számára a munkaidő nyomon követését, bejegyzések készítését, szerkesztését és törlését. Emellett heti vagy havi összesítőket is megtekinthetnek.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Telepítés és Használat
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. **Cloneozd a repository-t:**
 
-### Lints and fixes files
-```
-npm run lint
-```
+   `git clone github.com/shenkeeee/managem`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2. **Telepítsd a függőségeket:**
+
+   `cd ido-nyilvantarto`
+
+   `npm install`
+
+3. **Indítsd el a fejlesztői szervert:**
+
+   `npm run serve`
+
+4. **Nyisd meg a böngészőt:**
+
+   Látogass el a `http://localhost:8080` címre, ahol elérheted az alkalmazást.
+
+---
+
+### Használt Technológiák
+
+- **Vue.js** 
+- **Tailwind CSS**
+- **IndexedDB**
+
+---
+
+### Végszó
+
+Köszönöm a lehetőséget! ✌️
+
+Máté
