@@ -7,11 +7,11 @@ Ez az alkalmazás lehetővé teszi a felhasználók számára a munkaidő nyomon
 
 1. **Cloneozd a repository-t:**
 
-   `git clone github.com/shenkeeee/managem`
+   `git clone https://github.com/Shenkeeee/managem`
 
 2. **Telepítsd a függőségeket:**
 
-   `cd ido-nyilvantarto`
+   `cd managem`
 
    `npm install`
 
